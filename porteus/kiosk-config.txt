@@ -1,0 +1,16 @@
+kiosk_config=https://ve.nz0p.us/porteus/kiosk-config.txt
+connection=wifi
+dhcp=yes
+wifi_encryption=wpa
+wpa_password=localbrews
+ssid_name=Tall Trellis Guest
+browser=chrome
+homepage=https://ve.nz0p.us
+allow_icmp_protocol=yes
+disable_input_devices=no
+allow_popup_windows=yes
+search_engine=duckduckgo
+shutdown_menu=reboot restart-session shutdown sleep 
+timezone=America/Chicago
+whitelist=ve.nz0p.us exam.tools apps2.fcc.gov apps.fcc.gov hamstudy.org examtools.dev
+additional_components=uefi.zip 
